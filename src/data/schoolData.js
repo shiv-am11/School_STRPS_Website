@@ -25,10 +25,13 @@ export const navLinks = [
   { name: "Academics", path: "/academics" },
   { name: "Admissions", path: "/admissions" },
   { name: "Infrastructure", path: "/infrastructure" },
-  { name: "Activities", path: "/activities" },
   { name: "Gallery", path: "/gallery" },
   { name: "Updates", path: "/updates" },
-  { name: "Contact", path: "/contact" }
+  { name: "Contact", path: "/contact" },
+  {
+    name: "Mandatory Disclosure",
+    path: "/mandatory-disclosure",
+  },
 ];
 
 export const trustBarItems = [
@@ -408,7 +411,7 @@ export const faqItems = [
     a: "Shri Tula Ram Public School follows the Central Board of Secondary Education (CBSE), New Delhi curriculum with English as the primary medium of instruction."
   },
   {
-    q: "What is the admission procedure for the session 2026–27?",
+    q: "What is the admission procedure for the session 2026-27?",
     a: "Admissions begin with submitting an enquiry or collecting the registration form from the school office, followed by an informal student and parent interaction, and submission of required documents."
   },
   {

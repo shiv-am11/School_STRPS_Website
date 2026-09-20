@@ -143,7 +143,7 @@ export default function Hero() {
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-slate-100 aspect-[4/5] sm:aspect-[4/4.5] lg:aspect-[4/5]">
 
                 <img
-                  src="/images/hero/hero-main.jpg"
+                  src="/images/gallery/img3.jpeg"
                   alt="Shri Tula Ram Public School students learning"
                   className="w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-700"
                 />

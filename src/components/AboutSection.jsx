@@ -16,7 +16,7 @@ export default function AboutSection() {
               {/* Image 1: Main Classroom Photo */}
               <div className="rounded-3xl overflow-hidden shadow-xl border-4 border-white bg-slate-200 aspect-[4/3] w-4/5">
                 <img
-                  src="/images/about/about-students.jpg"
+                  src="/images/gallery/img2.jpeg"
                   alt="Students engaged in learning at Shri Tula Ram Public School"
                   className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
                 />
@@ -25,7 +25,7 @@ export default function AboutSection() {
               {/* Image 2: Overlapping Collaborative Photo */}
               <div className="rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-slate-100 aspect-[4/3] w-3/5 absolute -bottom-8 -right-2 sm:-bottom-10 sm:right-2 z-10">
                 <img
-                  src="/images/about/about-collaborative.jpg"
+                  src="/images/gallery/img5.jpeg"
                   alt="Collaborative classroom study"
                   className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
                 />
