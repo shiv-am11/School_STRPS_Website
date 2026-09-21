@@ -143,29 +143,12 @@ export default function Hero() {
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-slate-100 aspect-[4/5] sm:aspect-[4/4.5] lg:aspect-[4/5]">
 
                 <img
-                  src="/images/gallery/img3.jpeg"
+                  src="/images/gallery/image15.jpeg"
                   alt="Shri Tula Ram Public School students learning"
                   className="w-full h-full object-cover object-center transform hover:scale-105 transition-transform duration-700"
                 />
 
                 <div className="absolute inset-0 bg-gradient-to-t from-[#0F2747]/60 via-transparent to-transparent" />
-              </div>
-
-              {/* CBSE BADGE */}
-              <div className="absolute -top-4 -right-4 sm:top-4 sm:-right-6 bg-[#F4B942] text-[#0F2747] px-4 py-2 rounded-2xl shadow-xl border-2 border-white flex items-center gap-2 transform hover:-translate-y-1 transition-transform">
-
-                <ShieldCheck className="w-5 h-5 fill-[#0F2747] text-[#F4B942]" />
-
-                <div>
-                  <p className="text-[10px] font-extrabold uppercase tracking-wider">
-                    CBSE Affiliated
-                  </p>
-
-                  <p className="text-xs font-bold">
-                    Code: {schoolDetails.schoolCode}
-                  </p>
-                </div>
-
               </div>
 
               {/* BOTTOM FLOATING CARD */}

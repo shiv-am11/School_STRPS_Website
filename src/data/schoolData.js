@@ -120,43 +120,50 @@ export const infrastructureList = [
     title: "Smart Classrooms",
     category: "Learning Environment",
     desc: "Spacious, well-ventilated classrooms fitted with modern audiovisual learning aids and ergonomic seating designed for interactive study.",
-    image: "/images/infrastructure/smart-classroom.jpg"
+    image: "/images/gallery/img13.jpeg"
   },
   {
     id: "infra-2",
     title: "Modern Resource Library",
     category: "Knowledge Hub",
     desc: "Vast collection of course books, encyclopedias, reference works, magazines, and a quiet reading hall to foster healthy reading habits.",
-    image: "/images/infrastructure/library.jpg"
+    image:  "/images/gallery/img17.jpeg"
   },
   {
     id: "infra-3",
     title: "High-Tech Computer Lab",
     category: "Digital Technology",
     desc: "Modern networked computers with broadband internet access, practical software suites, and guided computing curricula.",
-    image: "/images/infrastructure/computer-lab.jpg"
+    image: "/images/gallery/img20.jpeg"
   },
   {
     id: "infra-4",
-    title: "Activity & Arts Studio",
+    title: "Activity",
     category: "Creativity & Expression",
     desc: "Dedicated creative workspaces where students explore sketching, painting, crafts, vocal music, theatrical arts, and folk dance.",
-    image: "/images/infrastructure/activity-room.jpg"
+    image: "/images/gallery/img14.jpeg"
   },
   {
     id: "infra-5",
     title: "Sports Grounds & Arena",
     category: "Physical Fitness",
     desc: "Spacious outdoor playing arenas for football, volleyball, cricket nets, track athletics, badminton, and outdoor calisthenics.",
-    image: "/images/infrastructure/sports-ground.jpg"
+    image: "/images/gallery/img6.jpeg"
   },
   {
     id: "infra-6",
-    title: "Safe Transport Fleet",
-    category: "Safe Transit",
-    desc: "Well-maintained school buses equipped with certified drivers, lady attendants, first-aid kits, and GPS tracking covering key local routes.",
-    image: "/images/infrastructure/school-bus.jpg"
-  }
+    title: "Play Area",
+    category: "Kids zone",
+    desc: "A safe and engaging play area where children can enjoy outdoor activities, develop physical fitness, and build teamwork through active play.",
+    image: "/images/gallery/img19.jpeg"
+  },
+  {
+    id: "infra-6",
+    title: "Science Lab",
+    category: "technology",
+    desc: "A hands-on learning space where students explore scientific concepts through experiments, observation, and practical activities that encourage curiosity and discovery.",
+    image: "/images/gallery/img18.jpeg"
+  },
 ];
 
 export const coCurricularActivities = [

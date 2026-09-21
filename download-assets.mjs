@@ -24,7 +24,7 @@ const downloads = [
   },
   {
     url: 'https://images.unsplash.com/photo-1580582932707-520aed937b7b?q=80&w=1000&auto=format&fit=crop',
-    dest: 'public/images/infrastructure/smart-classroom.jpg'
+    dest: 'public/images/gallery/img16.jpeg'
   },
   {
     url: 'https://images.unsplash.com/photo-1521587760476-6c12a4b040da?q=80&w=1000&auto=format&fit=crop',

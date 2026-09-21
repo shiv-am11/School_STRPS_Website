@@ -58,6 +58,11 @@ const galleryImages = [
     title: "Yoga Activities",
     category: "Activities",
   },
+  {
+    src: "/images/gallery/img21.jpeg",
+    title: "School Gate",
+    category: "Campus",
+  },
 ];
 
 const categories = ["All", "Activities", "Events", "Campus"];
