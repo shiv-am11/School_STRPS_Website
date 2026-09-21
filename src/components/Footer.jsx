@@ -25,7 +25,7 @@ export default function Footer() {
 
               <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-white p-1 shadow-md">
                 <img
-                  src="/images/logo/school-logo.png"
+                  src="/images/gallery/logo.jpeg"
                   alt="Shri Tula Ram Public School"
                   className="h-full w-full object-contain"
                 />
