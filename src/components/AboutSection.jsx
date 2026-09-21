@@ -61,10 +61,10 @@ export default function AboutSection() {
             {/* Body */}
             <div className="space-y-4 text-[#475569] text-sm sm:text-base leading-relaxed">
               <p>
-                Shri Tula Ram Public School, a CBSE-affiliated secondary school in Rama Vihar, Delhi, nurtures confident learners through thoughtful teaching, strong values, and a supportive, disciplined school community.
+                Shri Tula Ram Public School, a school in Rama Vihar, Delhi, nurtures confident learners through thoughtful teaching, strong values, and a supportive, disciplined school community.
               </p>
               <p>
-                Founded in 1995, our institution is dedicated to offering children a stimulating environment where academic curiosity thrives alongside character development, physical wellness, and ethical leadership.
+                Our institution is dedicated to offering children a stimulating environment where academic curiosity thrives alongside character development, physical wellness, and ethical leadership.
               </p>
             </div>
 

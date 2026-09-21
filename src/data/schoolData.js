@@ -1,17 +1,17 @@
 export const schoolDetails = {
   name: "Shri Tula Ram Public School",
   tagline: "Sanctuary of Empowerment",
-  subheading: "CBSE Affiliated Secondary School • Delhi",
+  subheading: "School • Delhi",
   foundedYear: "1995",
-  affiliation: "Affiliated to Central Board of Secondary Education (CBSE), New Delhi",
+  affiliation: "New Delhi",
   affiliationNo: "2730893",
   schoolCode: "85292",
-  address: "D-111/1, Rama Vihar, Mohd. Pur Majri, Delhi – 110081",
+  address: "D-111/1, Rama Vihar, Mohd. Pur Majri, Delhi - 110081",
   landmark: "Near Majri Village, Rama Vihar",
   phones: ["+91 9999758499", "+91 9999768499"],
   phoneFormatted: "+91 99997 58499",
   email: "shritularampublicschool@gmail.com",
-  timings: "Monday – Saturday: 8:00 AM – 2:00 PM",
+  timings: "Monday - Saturday: 8:00 AM - 2:00 PM",
   socials: {
     instagram: "https://instagram.com/Shri_tula_ram_public_school_",
     facebook: "https://facebook.com",
@@ -33,39 +33,10 @@ export const navLinks = [
     path: "/mandatory-disclosure",
   },
 ];
-
-export const trustBarItems = [
-  {
-    icon: "GraduationCap",
-    title: "CBSE Affiliated",
-    desc: "Secondary School Affiliation"
-  },
-  {
-    icon: "Calendar",
-    title: "Heritage Since 1995",
-    desc: "30+ Years of Learning Excellence"
-  },
-  {
-    icon: "ShieldCheck",
-    title: "Safe & Secure Campus",
-    desc: "CCTV Monitored & Guarded"
-  },
-  {
-    icon: "Award",
-    title: "Certified Faculty",
-    desc: "Dedicated Mentors & Teachers"
-  }
-];
-
 export const schoolStats = [
   {
-    value: "1995",
-    label: "Year Established",
-    subtext: "Over three decades of holistic education"
-  },
-  {
     value: "100%",
-    label: "CBSE Pass Rate",
+    label: "Pass Rate",
     subtext: "Consistent academic achievement"
   },
   {
@@ -148,7 +119,7 @@ export const infrastructureList = [
     title: "Sports Grounds & Arena",
     category: "Physical Fitness",
     desc: "Spacious outdoor playing arenas for football, volleyball, cricket nets, track athletics, badminton, and outdoor calisthenics.",
-    image: "/images/gallery/img6.jpeg"
+    image: "/images/gallery/img22.jpeg"
   },
   {
     id: "infra-6",
@@ -158,7 +129,7 @@ export const infrastructureList = [
     image: "/images/gallery/img19.jpeg"
   },
   {
-    id: "infra-6",
+    id: "infra-7",
     title: "Science Lab",
     category: "technology",
     desc: "A hands-on learning space where students explore scientific concepts through experiments, observation, and practical activities that encourage curiosity and discovery.",
@@ -252,7 +223,7 @@ export const updatesList = [
     id: "update-2",
     category: "ACADEMICS",
     date: "May 10, 2026",
-    title: "CBSE Board Examination Preparation Sessions",
+    title: "Examination Preparation Sessions",
     excerpt: "Specialized weekend doubt-clearing sessions, mock tests, and faculty mentorship workshops announced for secondary board students.",
     details: "To ensure peak confidence and academic readiness, subject mentors will provide individual doubt analysis, sample paper solving sessions, and time-management strategies.",
     tagColor: "gold"

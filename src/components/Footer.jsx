@@ -43,13 +43,13 @@ export default function Footer() {
             </div>
 
             <p className="pr-4 text-sm leading-relaxed text-slate-300">
-              A premier CBSE-affiliated secondary institution in Rama Vihar,
+              A premier School in Rama Vihar,
               Delhi, fostering intellectual rigor, ethical values, and joyful
               lifelong learning.
             </p>
 
             {/* CBSE Badge */}
-            <div className="inline-flex items-center gap-2 rounded-lg border border-white/10 bg-white/5 px-3 py-1.5 text-xs text-slate-300">
+            {/* <div className="inline-flex items-center gap-2 rounded-lg border border-white/10 bg-white/5 px-3 py-1.5 text-xs text-slate-300">
               <ShieldCheck className="h-4 w-4 text-[#F4B942]" />
 
               <span>
@@ -57,7 +57,7 @@ export default function Footer() {
                 {" • "}
                 Code: {schoolDetails.schoolCode}
               </span>
-            </div>
+            </div> */}
 
             {/* Social Links */}
             <div className="flex items-center gap-2.5 pt-2">
@@ -260,7 +260,7 @@ export default function Footer() {
             <span>•</span>
 
             <span className="text-slate-500">
-              Delhi – 110081
+              Delhi - 110081
             </span>
 
           </div>

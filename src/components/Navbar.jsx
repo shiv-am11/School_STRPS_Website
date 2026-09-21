@@ -161,7 +161,7 @@ export default function Navbar() {
           <div className="flex items-center gap-2.5 flex-wrap">
 
             <span className="inline-flex items-center gap-1 bg-[#F4B942] text-[#0F2747] px-2 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider">
-              Admissions 2026–27
+              Admissions 2026-27
             </span>
 
             <span className="hidden md:inline text-slate-300">
@@ -169,7 +169,7 @@ export default function Navbar() {
             </span>
 
             <span className="text-slate-200 font-medium">
-              CBSE Affiliated Secondary School • Delhi
+              Shri Tula Ram Public School• Delhi
             </span>
 
             <span className="hidden lg:inline text-slate-400">
@@ -238,7 +238,7 @@ export default function Navbar() {
             <div className="w-11 h-11 rounded-xl bg-[#0F2747] flex items-center justify-center overflow-hidden shadow-sm border border-slate-200 group-hover:scale-105 transition-transform duration-200 shrink-0">
 
               <img
-                src="/images/logo/school-logo.png"
+                src="/images/gallery/logo.jpeg"
                 alt="Shri Tula Ram Public School"
                 className="w-full h-full object-cover"
                 onError={(e) => {
@@ -255,11 +255,6 @@ export default function Navbar() {
               </div>
 
               <div className="text-[11px] font-medium text-[#64748B] flex items-center gap-1.5 mt-1 whitespace-nowrap">
-
-                <span>
-                  CBSE Affiliated
-                </span>
-
                 <span className="w-1 h-1 rounded-full bg-slate-300 shrink-0" />
 
                 <span>

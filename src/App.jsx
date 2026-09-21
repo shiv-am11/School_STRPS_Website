@@ -1,6 +1,5 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import TrustBar from "./components/TrustBar";
 import AboutSection from "./components/AboutSection";
 import FeaturesSection from "./components/FeaturesSection";
 import InfrastructureSection from "./components/InfrastructureSection";
@@ -17,7 +16,6 @@ function HomePage() {
   return (
     <main>
       <Hero />
-      <TrustBar />
       <AboutSection />
       <FeaturesSection />
       <InfrastructureSection />
